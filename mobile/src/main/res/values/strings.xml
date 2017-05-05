@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ITWM MC</string>
+    <string name="logo">Logo</string>
+    <string name="title">Center for Materials Characterization and Testing</string>
+    <string name="car">Measured car</string>
+    <string name="phrase">»Our systems measure materials layer by layer.«</string>
+    <string name="Mail">karl.henrik.may@itwm.fraunhofer.de</string>
+    <string name="Phone">+49 631 316004933</string>
+    <string name="Adress">Fraunhoferplatz 1, 67663 Kaiserslautern</string>
+</resources>
