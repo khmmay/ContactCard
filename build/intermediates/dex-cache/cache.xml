@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_cff203eb6a80268983c0f301a4bdf58242f5a54a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_959df5269fca341fe16ee16adc447995213c1f3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_f40f191a01cae6777044f8d1467d5a718e33a201\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_9b8aeb1d03942f26fd06bd9ca3379579bf700f50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_36300d7cab479d6098051d78314f9c4c7432d522\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_a6b6f08b2d68e8dae9c4768d2184accfcd2b6ce3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_eb5dfadb1311d7e243f725a7a4134d7eb2a1a01c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_831f54e0d296e5ae3a7466316ffcd0ba1ad8ef95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_12bb35f1b039ba92cba01508d6e31f575b086424\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_0b8878334047312bf0d6b7e1901efc7af8c5055d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa8c6666ffc06b97655fa0b95777234ab21a0591">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a359149349750b73a3c3e87d77209741508bde31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_da4a9fa0e7ad096dddbee3f41358ee29eec50aff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_f65b1aeb5bedac10142321350f9e80166794cb16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_d98bdde6f1859f6fe7c2027fe0d5ba167129bb3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_181460da142efd134ab012564f8d7a3de7a85f89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_6fd4cfe19eab075a5ac427b2423ac038e19453a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_9eb9a0a8094c81612d7257c8ce0aba3b3f2400bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_cc127dd83b2a0d7acd3ec212c601398ec482f69b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_c36edd9e77c3e864bce740cc15f7a07a04a720a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_7cff7afe9ddfb2ad9ee78df8e66e3d6a5dd22fce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_757a7a86600d8a51ed0eb1d889f7ec7032f5d648\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_ed60be786ce7e7cd5a0b0012e1e3642410ea640a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_4b6f3767cf3be60591d41d66c8f4b54d3ff279e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_1ac0afc24953fb49103fe7c43465cefe8b4e1e99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="166c7d3457bb17643cf14fab96b0e1ab94aa14be">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6bd48a0f7f1f2801429002804e8ed509e6717c0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_b0f302201ae0300a6ee0fc0420360a14a43bf5bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_6f2117a037995ca5e0485cf5d5d73e920ad5c406\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_44a8de39bfdb4ae53b69918b763a4f6596853f4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_178c1b0ba3d0e76cbf0caebaee83de8756c81744\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_2a5662ecccf94e36a581e4ed0a306f8e92bedefc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_2cd60bd70648747e03fd6b3a534b8c696c5db4eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_3d631e0ff7f90ec33ce83e0670894d7da37d3950\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_7e4f0ca481d03d4e3753c2ab7bc174608d63d00c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_8e7cf03bb0dcb8633013bcaab46855406e272b7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_56f912cccb16e3c1033a1e4804c24a6f8c0890e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_3098687da5de37c7a703aced874585a45800d9d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_11c872bda0c3d0889176112d0e93b6a5c0860e1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_ca9d94c0a6a27ff093b45e75e255f1d42c299037\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_2a31150396c2949b7e911c8a6dd1fe9947af4367\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_a375455893d2b3b8d1b1382d9334abc2cdd8315c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_7b87cc4eeb531523289c598da414d89ef73e6a59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_2dedfe4cecab95ea0792e3e99ad71952de8f9677\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_f5c7b6d3ac6528f79397948b5496be6708d31b48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_725cdb55b183dd1038eae9c36a1ae6740f7a93e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_ba41119870aee9bcdde2cf2932d78ee3aa4adfc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_9579f1a6b32feb01d5c4bee86ee3023d3087d596\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_b3104fb823ca0ffd42ecb3ef1145ea448624f6d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_08db4d75f4691e95b9c4317f5cd48864dbfab9e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_cd1410f3c841ffb0431d22672b43b3e1812229ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_bda87e73e32eb4c7c4385e1c06d3ada7099576bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_31a8bfda76f63840b9a28dc382f29b4db00b23bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_8c4c4035efe8e19dc86c614d00df7353f60f9a74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_aa80eee7178d0fb9253674c5db6259ebfbc8329c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_807abb00eb1bb9d2918a74e0783ea18165c19bfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_e94533098308f0ab010a12e9aa03ac7fd2ac7420\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_38f04b786638506bcba48eaf7651316f7b3e48b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_70c9861205c38ebf694b25b0cde3e830518b6ab4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_f15833a01d5a7b6aaa1c953e003d5c1e6a625732\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_0f08117fbf404f078b044c5c24e102629612de67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_b2d8af9a9274131f8fc36870b22532a7a8fef84e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_65abb5312ad8b014f2d3b90ad78ce992f12df08b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_07ad667835ad1c9036dc9d0ad6f3046187ce9534\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\Henrik\AndroidStudioProjects\ContactCard\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_c1fa2184aee7624d33933ddd9a29e38210dd3005\classes.dex" />
+    </item>
+
+</items>
